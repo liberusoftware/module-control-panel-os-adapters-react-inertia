@@ -1,0 +1,15 @@
+{
+  "repository": "module-control-panel-os-adapters-react-inertia",
+  "capabilityKey": "liberusoftware/module-control-panel-os-adapters",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-control-panel-os-adapters-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/control-panel/nextjs/os-adapters.md",
+  "presentationPlan": "projects/control-panel/react/os-adapters.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "control-panel"
+  ]
+}
